@@ -1,6 +1,6 @@
 // Funcionalidad para enviar confirmación de asistencia por WhatsApp
 document.addEventListener('DOMContentLoaded', function() {
-    const WHATSAPP_1 = '542213509982';
+    const WHATSAPP_1 = '543816329609';
     const WHATSAPP_2 = '542216722022';
     const btn1 = document.getElementById('botoncito1');
     const btn2 = document.getElementById('botoncito2');
